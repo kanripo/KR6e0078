@@ -1,16 +1,16 @@
-#-*- mode: org; -*-
-#+DATE: 2015-09-28 22:57:57.072864
-#+TITLE: 華嚴一乘教義分齊章復古記
-#+PROPERTY: CBETA_ID X58n0998
-#+PROPERTY: ID KR6e0078
-#+PROPERTY: SOURCE 卍 Xuzangjing Vol. 58, No. 998
-#+PROPERTY: VOL 58
-#+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+TITLE: 華嚴一乘教義分齊章復古記 / CBETA
+#+DATE: 2015-11-26 14:15:43.956673
+* 版本
+ |     CBETA|【電子佛典集成】|
+ |         X|【卍續】    |
 
-<pb:KR6e0078_X_000-0302a>
-[[file:KR6e0078_001.txt::001-0302a2][華嚴五教章復古記刊行凡例¶]]
-[[file:KR6e0078_001.txt::0302b1][No.998-A復古記序¶]]
-[[file:KR6e0078_001.txt::0302c3][華嚴一乘教義分齊章復古記]]
-[[file:KR6e0078_003.txt::0396b2][五教章奧書¶]]
-[[file:KR6e0078_003.txt::0396b7][復古記奧書¶]]
+* 目次
+* [[file:KR6e0078_001.txt::001-0302a2][華嚴五教章復古記刊行凡例¶]]
+* [[file:KR6e0078_001.txt::0302b1][No.998-A復古記序¶]]
+* [[file:KR6e0078_001.txt::0302c3][華嚴一乘教義分齊章復古記]]
+* [[file:KR6e0078_003.txt::0396b2][五教章奧書¶]]
+* [[file:KR6e0078_003.txt::0396b7][復古記奧書¶]]
+* 卷
+** [[file:KR6e0078_001.txt][華嚴一乘教義分齊章復古記 1]]
+** [[file:KR6e0078_002.txt][華嚴一乘教義分齊章復古記 2]]
+** [[file:KR6e0078_003.txt][華嚴一乘教義分齊章復古記 3]]
